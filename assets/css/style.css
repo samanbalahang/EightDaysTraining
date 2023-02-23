@@ -1,0 +1,13 @@
+table{
+    width: 100% !important;
+}
+.tablecontainer{
+    width: 100%;
+    padding: 1rem;
+}
+button, input, optgroup, select, textarea{
+    width: 3rem;
+}
+td{
+    cursor: pointer;
+}
